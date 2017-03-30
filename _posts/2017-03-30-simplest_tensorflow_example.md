@@ -35,7 +35,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](ensemblearner.github.io/blog_images/tensor_flow_blog_images/simplest tensorflow example_2_1.png)
+![png](https://github.com/ensemblearner/ensemblearner.github.io/blob/master/blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_2_1.png)
 
 
 
@@ -86,7 +86,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](ensemblearner.github.io/blog_images/tensor_flow_blog_images/simplest tensorflow example_8_1.png)
+![png](https://github.com/ensemblearner/ensemblearner.github.io/blob/master/blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_8_1.png)
 
 
 
@@ -144,7 +144,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](ensemblearner.github.io/blog_images/tensor_flow_blog_images/simplest tensorflow example_16_1.png)
+![png](https://github.com/ensemblearner/ensemblearner.github.io/blob/master/blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_16_1.png)
 
 
 
