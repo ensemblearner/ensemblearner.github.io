@@ -8,7 +8,9 @@ categories: Python, TensorFlow, Machine Learning
 I recently started learning <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a>, which is an open source library for numerical computation maintained by google.<br />
 But it has a slightly different paradigm than what you might be used to. Rather than directly operating on data, you write a computational graph where you define all the mathematical transformations and operations that would later act on data. In this blog, I thought of trying out the simplest example one can think of in machine learning. Solving linear regression using its close form (which is not recommended as it involves inversion of a matrix nXn matrix, where n is the number of rows in matrix). But this post is meant for a gentle introduction to tensforflow.<br />
 
-In this post, we will first use standard python libraries and later use tensorflow to solve linear regression in order to demonstrate the similiarities and dissimilarities of two approaches.
+In this post, we will first use standard python libraries and later use tensorflow to solve linear regression in order to demonstrate the similiarities and dissimilarities of two approaches. <br />
+
+First, numpy way <br />
 
 ```python
 import tensorflow as tf
@@ -93,7 +95,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 ![png](https://raw.githubusercontent.com/ensemblearner/ensemblearner.github.io/master/blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_8_1.png)
 
-
+Now, tensorflow way <br />
 
 ```python
 X_tensor = tf.constant(X_matrix)
