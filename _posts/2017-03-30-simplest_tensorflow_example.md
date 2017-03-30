@@ -35,7 +35,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_2_1.png)
+![png](blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_2_1.png)
 
 
 
@@ -86,7 +86,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_8_1.png)
+![png](blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_8_1.png)
 
 
 
@@ -144,7 +144,7 @@ plt.legend(loc="upper left", bbox_to_anchor=(1,1))
 
 
 
-![png](simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_16_1.png)
+![png](blog_images/tensor_flow_blog_images/simplest%20tensorflow%20example_files/simplest%20tensorflow%20example_16_1.png)
 
 
 
