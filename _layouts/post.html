@@ -7,3 +7,5 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
+{% if page.comments %} • <a href="https://ensemblearner.github.io/blog/{{ page.url }}#disqus_thread">Comments</a>{% endif %}
+{% include disqus.html %}
