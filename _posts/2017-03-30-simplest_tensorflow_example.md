@@ -3,6 +3,7 @@ layout: post
 title:  "Simplest TensorFlow example!"
 date:   2017-03-30
 categories: Python, TensorFlow, Machine Learning
+comments: true
 ---
 
 I recently started learning <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a>, which is an open source library for numerical computation maintained by google.<br />
