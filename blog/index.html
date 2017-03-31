@@ -8,8 +8,7 @@ title: White Noise
 
   {% for post in site.posts %}
     <li><span>{{ post.date | date: "%b %-d, %Y" }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    {% if page.comments %} • <a href="https://ensemblearner.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
-    </li>
+    {% if post.comments %} • <a href="https://ensemblearner.github.io{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</li>
   {% endfor %}
     
 </ul>
