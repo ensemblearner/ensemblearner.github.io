@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplest TensorFlow example!"
+title:  "Simplest TensorFlow example (Linear Regression)"
 date:   2017-03-30
 categories: Python, TensorFlow, Machine Learning
 comments: true
